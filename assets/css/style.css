@@ -1310,7 +1310,7 @@ body {
 .main-2 .cta {
     background: url(../images/product-3.jpg) no-repeat left center;
     background-size: contain;
-    padding: 0 0 80px 0;
+    /*padding: 0 0 80px 0;*/
 }
 
 .main-2 .cta-inner {
@@ -1912,6 +1912,7 @@ body {
     .video-dl{
         padding: 0 !important;
     }
+
 }
 
 @media only screen and (min-width: 1024px) {
@@ -2052,7 +2053,7 @@ body {
 /* Custom Responsiveness */
 @media screen and (max-width: 399px){
     .hero-2{
-    padding: 110px 0 50px 0;
+    padding: 110px 0 0 0;
     }
     .features{
         padding: 10px 10px !important;
